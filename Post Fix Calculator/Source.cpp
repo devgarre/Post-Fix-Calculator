@@ -12,7 +12,7 @@ stack <int> valueList;
 
 int main() {
 
-	cout << "Enter the expression you would like to calculate: ";
+	cout << "Enter the expression you would like to calculate (seperate each value with a space): ";
 	cin >> calculation;
 
 
